@@ -1,0 +1,11 @@
+ultralytics
+roboflow
+onnx
+onnxruntime
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pillow
+tqdm
